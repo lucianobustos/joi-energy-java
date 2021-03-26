@@ -289,3 +289,7 @@ Example output
   }
 ]
 ```
+
+## Open Api Standar Swagger - docs
+
+Please access to [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
